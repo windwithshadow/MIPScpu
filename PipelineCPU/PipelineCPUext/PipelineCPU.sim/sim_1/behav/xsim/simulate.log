@@ -1,0 +1,4 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+Simulation succeeded
+$stop called at time : 115 ns : File "D:/vivadoprogram/PipelineCPU/PipelineCPUext/PipelineCPU.srcs/sim_1/new/testbench.sv" Line 25

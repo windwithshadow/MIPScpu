@@ -1,0 +1,4 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+Simulation failed
+$stop called at time : 175 ns : File "D:/vivadoprogram/singlecircleCPU/singlecircleCPU/singlecircleCPU.srcs/sim_1/new/testbench.sv" Line 27
